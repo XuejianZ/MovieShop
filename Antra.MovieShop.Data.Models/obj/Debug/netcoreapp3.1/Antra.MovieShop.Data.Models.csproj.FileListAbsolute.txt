@@ -1,0 +1,9 @@
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\bin\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.deps.json
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\bin\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.dll
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\bin\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.pdb
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.csprojAssemblyReference.cache
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.AssemblyInfoInputs.cache
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.AssemblyInfo.cs
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.dll
+C:\Users\XuejianZhou\Desktop\Antra\C#\New folder\New folder\MovieShop\Antra.MovieShop.Data.Models\obj\Debug\netcoreapp3.1\Antra.MovieShop.Data.Models.pdb
